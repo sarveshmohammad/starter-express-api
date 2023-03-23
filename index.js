@@ -20,7 +20,7 @@ app.use(cors())
 app.get("/server",(req,res)=>{
     res.send("Hello servess......")
 })
-///app.use('/api/address',require("./routers/addressrouters"))
+app.use('/api/address',require("./routers/addressrouters"))
 
 
 app.listen(port, () => {
