@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/cyclic-software/starter-express-api.git"
   },
-  "keywords": [],
+  
   "author": "",
   "license": "ISC",
   "bugs": {
