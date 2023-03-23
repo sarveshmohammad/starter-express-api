@@ -17,7 +17,9 @@ app.use('/api/wishlish', require('./routers/wishlishrouters'));
 app.use('/api/signup',require('./routers/signuprouters'))
 
 app.use('/api/addcard',require('./routers/addcardrouters.js'))
-
+app.get("/server",(req,res)=>{
+    res.send("Hello servess......")
+})
 app.use('/api/address',require("./routers/addressrouters"))
 
 
