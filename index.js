@@ -8,7 +8,7 @@ const port = process.env.PORT || 5000;
 const ConnectDB = require('./config/db');
 ConnectDB()
 app.use(express.urlencoded({ extended: false }));
-
+app.use(cors())
 
 app.use('/api/sarees',require('./datarouter'))
 
