@@ -41,7 +41,7 @@ const deletewishlish=  async(req,res)=>{
         res.status(400);
         res.send("user not found");
     }
-        await findid.remove();
+    const deletecart =  await wishlish.deleteMany({_id: findid._id});
        
     res.status(200).json({message : `delete data ${req.params.id}`});
  }

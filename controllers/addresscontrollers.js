@@ -43,7 +43,8 @@ const deleteaddress =  async(req,res)=>{
         res.status(400);
         res.send("user not found");
     }
-        await findid.remove();
+      const deleteresult = await address.deleteMany({_id: findid._id});
+      
        
     res.status(200).json({message : `delete data ${req.params.id}`});
  }

@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.use(express.json())
 
-router.get('/get',(req,res)=>{
+router.get('/',(req,res)=>{
     res.json({status:true,data:Categories})
 })    
 
