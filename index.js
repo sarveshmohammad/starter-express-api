@@ -16,11 +16,11 @@ app.use(cors())
 
 //app.use('/api/signup',require('./routers/signuprouters'))
 
-//app.use('/api/addcard',require('./routers/addcardrouters.js'))
+app.use('/api/addcard',require('./routers/addcardrouters.js'))
 app.get("/server",(req,res)=>{
     res.send("Hello servess......")
 })
-app.use('/api/address',require("./routers/addressrouters"))
+//app.use('/api/address',require("./routers/addressrouters"))
 
 
 app.listen(port, () => {
