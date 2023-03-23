@@ -8,14 +8,14 @@ const postsignup = async(req,res)=>{
     const { firstname, lastname, email, password, gender } = req.body
 
     if(!firstname || !lastname || !email || !password || !gender){
-        res.status(400)
-        throw new Error("please add all fieds")
+        res.status(400).json({error:"please add all fieds"})
+     //   throw new Error("please add all fieds")
     }
 
     let cheackemail = email.includes("@gmail.com")
     if(!cheackemail){
-        res.status(400)
-        throw new Error ("please add the @gmail.com")
+        res.status(400).json({error:"please add the @gmail.com"})
+        //throw new Error ("please add the @gmail.com")
     }
     const data = await signup.create({
         firstname, 
@@ -47,8 +47,8 @@ const LoginUser =asyncHandler(async (req,res)=>{
         })
     }
     else{
-        res.status(400)
-        throw new Error("invalid credentials");
+        res.status(400).json({error:"invalid credentials"})
+       // throw new Error("invalid credentials");
     }
 })
 
