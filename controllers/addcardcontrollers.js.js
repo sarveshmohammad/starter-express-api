@@ -43,7 +43,7 @@ const deleteaddtocard=  async(req,res)=>{
         res.status(400);
         res.send("user not found");
     }
-       const deletecart =  await addcard.deleteMany({_id: findid._id});
+    const deleteresult = await addcard.deleteMany({_id: findid._id});
        
     res.status(200).json({message : `delete data ${req.params.id}`});
  }
