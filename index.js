@@ -10,7 +10,7 @@ ConnectDB()
 app.use(express.urlencoded({ extended: false }));
 app.use(cors())
 
-app.use('/api/sarees',require('./datarouter'))
+app.use('/all/categris',require('./datarouter'))
 
 
 app.use('/api/wishlish', require('./routers/wishlishrouters'));
