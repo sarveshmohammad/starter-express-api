@@ -1462,8 +1462,7 @@ Kurtis={
                     }
                 },
             ]
-        }
-            
+        }          
 ]
 },
 
@@ -1648,14 +1647,9 @@ Lehengas={
                         idealFor:"Women",
                         packOf:"1",
                         LehengaFabric:" Vrlvet",
-                        LehengaBlouseFabric:"Vrlvet",
-                    
-                        
-    
+                        LehengaBlouseFabric:"Vrlvet"
                     }
                 },
-    
-    
                 { 
                     title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
@@ -1805,12 +1799,8 @@ Lehengas={
                         packOf:"1",
                         LehengaFabric:"Netted stain",
                         LehengaBlouseFabric:"Netted stain",                    
-                        
-    
                     }
                 },
-    
-    
                 { 
                     title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
@@ -1973,12 +1963,8 @@ Trousers={
                         packOf:"1",
                         occasion:"Daily Wear,casual wear",
                         fabric:"Cotton",
-                        
-            
-                    }
+                  }
                 },
-            
-            
                 { 
                     title:"Men Regular Fit Black Cotton Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/k/2/q/32-cyfor-a-cyphus-original-imag6yyyedypgvke.jpeg?q=70",
@@ -2027,13 +2013,9 @@ Trousers={
                         idealFor:"men",
                         packOf:"1",
                         occasion:"Daily Wear,casual wear",
-                        fabric:"Cotton",
-                        
-            
+                        fabric:"Cotton",                       
                     }
                 },
-            
-            
                 { 
                     title:"Men Slim Mid Rise Blue Jeans",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/g/j/b/32-wmjn004806-wrangler-original-imaggyry9nrug5tr.jpeg?q=70",
@@ -2083,12 +2065,8 @@ Trousers={
                         packOf:"1",
                         occasion:"Daily Wear,casual wear",
                         fabric:"Cotton",
-                        
-                
-                    }
+                        }
                 },
-                
-                
                 { 
                     title:"Men Slim Fit Grey Lycra Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/y/v/q/28-4way-22-grandstitch-original-imaggqhytz6gebmm.jpeg?q=70",
@@ -2138,12 +2116,8 @@ Trousers={
                         packOf:"1",
                         occasion:"Daily Wear,casual wear",
                         fabric:"Cotton",
-                        
-                
                     }
                 },
-                
-                
                 { 
                     title:"Men Slim Fit Black Lycra Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/l3hmwsw0/trouser/x/b/e/30-a1-aclass-original-imagehhhcuztyw5h.jpeg?q=70",
@@ -2192,12 +2166,9 @@ Trousers={
                     idealFor:"men",
                     packOf:"1",
                     occasion:"Daily Wear,casual wear",
-                    fabric:"Cotton",
-                    
+                    fabric:"Cotton",                   
                 }
             },
-            
-            
             { 
                 title:"Men Slim Fit Black Viscose Rayon Trousers",
                 Image:[ "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/i/z/s/32-pmtx06279-b9-park-avenue-original-imagyyfpupwjay7z.jpeg?q=70",
@@ -2222,8 +2193,7 @@ Trousers={
                 }
             },
             ]
-        }    
-        
+        }       
     ]
  },
       
@@ -2253,12 +2223,8 @@ Trousers={
                         packOf:"1",
                         occasion:"Daily Wear,casual wear",
                         ShirtsFabric:"Cotton",
-                        
-    
                     }
-                },
-    
-    
+                }, 
                 { 
                     title:"Men Slim Fit Solid Casual Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
@@ -2414,12 +2380,8 @@ Trousers={
                         PackOf:"1",
                         occasion:"Daily Wear,casual wear",
                         ShirtsFabric:"Cotton",
-                        
-    
-                    }
+                       }
                 },
-    
-    
                 { 
                     title:"Men Regular Fit Solid Spread Collar Formal Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
@@ -2575,12 +2537,8 @@ Trousers={
                         packOf:"1",
                         occasion:"Daily Wear,casual wear",
                         ShirtsFabric:"Cotton",
-                        
-        
                     }
                 },
-        
-        
                 { 
                     title:"Men Regular Fit Solid Button Down Collar Formal Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
@@ -2714,8 +2672,7 @@ Trousers={
                 }
         
               ]
-        },
-        
+        },  
     ]
  },
 
@@ -5284,19 +5241,7 @@ const Westerndresscollections = [
                 occasion:"Daily wear, Casual wear",
                 fabric:"Satin"
             }
-        },
-
-
-
-
-
-
-
-
-
-
-
-        
+        }, 
     ]
     }
 ]
@@ -5305,7 +5250,7 @@ const StylishKurtiCollections = [
     {
         title:"Stylish Kurti Collections",
         Productlist:[
-        {
+           {
             title:"Women Printed Crepe Straight Kurta  (Pink)",
             Image:["https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/s/7/d/l-530245-1-stop-fashion-original-imag5m8zbh4g2fha.jpeg?q=70",
                    "https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/3/u/q/l-530245-1-stop-fashion-original-imag5m8z9dyxetak.jpeg?q=70",
@@ -5328,8 +5273,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Printed Pure Cotton Straight Kurta  (Pink)",
             Image:["https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/x/1/r/xxl-gw104-3-glowworld-original-imafwzhfaubzfzuf.jpeg?q=70",
@@ -5353,8 +5296,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Printed Viscose Rayon Straight Kurta  (Multicolor)",
             Image:["https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/b/b/b/l-lc0031-leaf-creation-original-imag5xh6h4msdcxh.jpeg?q=70",
@@ -5378,8 +5319,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Printed Viscose Rayon Straight Kurta  (Green)",
             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/q/r/p/m-741-rama-kurta-tanjan-original-imagynwq2tbm5ccz.jpeg?q=70",
@@ -5403,8 +5342,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Printed Cotton Blend Straight Kurta  (Blue)",
             Image:["https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/f/2/y/xl-kp-0116-k-21-kannahi-original-imagchyb8vhrfcsy.jpeg?q=70",
@@ -5428,8 +5365,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Leheriya Pure Cotton Straight Kurta  (Orange)",
             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/j/c/l-kr-4381-darkorange-lee-moda-original-imagg23w2tj8hpkp.jpeg?q=70",
@@ -5453,8 +5388,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Printed Cotton Blend Straight Kurta  (Maroon)",
             Image:["https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/2/o/f/l-cw11-20-ketaki-fashion-original-imagc86gjg4ggegy.jpeg?q=70",
@@ -5478,8 +5411,6 @@ const StylishKurtiCollections = [
                 fabric:"Rayon"
               }
            }, 
-
-
            {
             title:"Women Solid Viscose Rayon Straight Kurta  (Dark Blue)",
             Image:["https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/z/r/g/xxl-rf-184-petrol-blue-new4u-original-imag6as2xts2q2b5.jpeg?q=70",
@@ -5509,7 +5440,7 @@ const StylishKurtiCollections = [
 
 const TrendingKurtiCollections = [
     {
-        title:"TrendingKurtiCollections",
+        title:"Trending Kurti Collections",
         Productlist:[
         {
             title:"Women Embroidered Viscose Rayon High Low Kurta  (Green)",
@@ -6079,11 +6010,333 @@ const Specialsareecollections = [
     }
 ]
 
+const LongKurtiCollections = [
+    {
+        title:"Long Kurti Collections",
+        Productlist:[
+        {
+            title:"Women Printed Pure Cotton Straight Kurta  (Yellow)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/w/m/p/s-mf-620-global-beats-original-imagzfj8wgzghn9p.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/5/c/s-mf-620-global-beats-original-imagzfj8cchzcnnf.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/4/p/s-mf-620-global-beats-original-imagzfj8ns53233b.jpeg?q=70"
+            ],
+            sellingPrice:"999",
+            disPrice:"314",
+            disPrsent:"68%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSHY1708A244YL",
+                idealFor:"Women",
+                packOf:"1(KURTI + PALAZZO)",
+                occasion:"Festive, Party wear",
+                fabric:"Pure muslin silk"
+            }
+        },
+        {
+            title:"Unstitched Crepe Kurta & Patiyala Material Printed",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/c/q/k/yes-2-2-m-unstitched-2-m-2-5-m-soha-red-dm96-sarvada-original-imagkc7ygfzua4qd.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/x/e/m/yes-2-2-m-unstitched-2-m-2-5-m-soha-red-dm96-sarvada-original-imagkc7yjjkynrhu.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/g/l/w/yes-2-2-m-unstitched-2-m-2-5-m-soha-red-dm96-sarvada-original-imagkc7y6azs8bjf.jpeg?q=70"
+            ],
+            sellingPrice:"1845",
+            disPrice:"308",
+            disPrsent:"83%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSAJ5005A259",
+                idealFor:"Women",
+                packOf:"1(KURTI + Bottom + Duppatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+            }
+        },
+
+
+
+
+        {
+            title:"Women Printed Cotton Rayon Straight Kurta ",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kykgb680/kurta/p/f/j/s-banthani-mustard-kp-fab-original-imagarw8zykhef52.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kykgb680/kurta/0/v/a/s-banthani-mustard-kp-fab-original-imagarw8qdv6znya.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kykgb680/kurta/h/0/j/s-banthani-mustard-kp-fab-original-imagarw8engvnnjp.jpeg?q=70"
+            ],
+            sellingPrice:"699",
+            disPrice:"449",
+            disPrsent:"35%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+            ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+             ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+             ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+             ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+            ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+             ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+            ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+
+
+
+        {
+            title:"",
+            Image:[
+                "",
+                "",
+                ""
+             ],
+            sellingPrice:"",
+            disPrice:"",
+            disPrsent:"",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"",
+                fabric:""
+            }
+        },
+
+
+        
+    ]
+        },
+        ]
+
+
 module.exports = {
     Categories, 
     Westerndresscollections,
     StylishKurtiCollections,
     TrendingKurtiCollections,
-    Specialsareecollections
-   
+    Specialsareecollections,
 }
