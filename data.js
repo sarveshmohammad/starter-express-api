@@ -5796,10 +5796,6 @@ const StylishKurtiCollections = [
      }
 ]
 
-
-
-
-
 module.exports = {
     Categories, 
     Westerndresscollections,
