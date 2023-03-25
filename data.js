@@ -5301,6 +5301,495 @@ const Westerndresscollections = [
     }
 ]
 
+const StylishKurtiCollections = [
+    {
+        title:"Stylish Kurti Collections",
+        Productlist:[
+        {
+            title:"Women Printed Crepe Straight Kurta  (Pink)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/s/7/d/l-530245-1-stop-fashion-original-imag5m8zbh4g2fha.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/3/u/q/l-530245-1-stop-fashion-original-imag5m8z9dyxetak.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/knqd3m80/kurta/n/f/i/xxl-219-217-245-1-stop-fashion-original-imag2cpxudcumtyn.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"269",
+            disPrsent:"73%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD003A421",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Pure Cotton Straight Kurta  (Pink)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/x/1/r/xxl-gw104-3-glowworld-original-imafwzhfaubzfzuf.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/c/6/o/xxl-gw104-3-glowworld-original-imafwzhfybgeuzja.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/z/w/b/xxl-gw104-3-glowworld-original-imafwzhfvjw9wfvc.jpeg?q=70"],
+            sellingPrice:"1499",
+            disPrice:"314",
+            disPrsent:"79%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD006A424",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Viscose Rayon Straight Kurta  (Multicolor)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/b/b/b/l-lc0031-leaf-creation-original-imag5xh6h4msdcxh.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/c/3/i/l-lc0031-leaf-creation-original-imag5xh6wrbdueut.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/l/g/r/l-lc0031-leaf-creation-original-imag5xh6vjmhzzjt.jpeg?q=70"],
+            sellingPrice:"1499",
+            disPrice:"248",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD001A419",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Viscose Rayon Straight Kurta  (Green)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/q/r/p/m-741-rama-kurta-tanjan-original-imagynwq2tbm5ccz.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/g/x/m-741-rama-kurta-tanjan-original-imagynwqghkvm3gk.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/o/d/b/m-741-rama-kurta-tanjan-original-imagynwqryuh57sp.jpeg?q=70"],
+            sellingPrice:"1599",
+            disPrice:"314",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD004A422",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Cotton Blend Straight Kurta  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/f/2/y/xl-kp-0116-k-21-kannahi-original-imagchyb8vhrfcsy.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/a/a/t/xl-kp-0116-k-21-kannahi-original-imagchybsbgfddyq.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/u/m/u/xl-kp-0116-k-21-kannahi-original-imagchyb4rgbacvx.jpeg?q=70"],
+            sellingPrice:"1649",
+            disPrice:"509",
+            disPrsent:"69%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD007A425",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Leheriya Pure Cotton Straight Kurta  (Orange)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/j/c/l-kr-4381-darkorange-lee-moda-original-imagg23w2tj8hpkp.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/p/j/g/l-kr-4381-darkorange-lee-moda-original-imagg23wxzttp5c9.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/l/w/x/l-kr-4381-darkorange-lee-moda-original-imagg23wqwkce4k8.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"254",
+            disPrsent:"87%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD002A420",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Cotton Blend Straight Kurta  (Maroon)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/2/o/f/l-cw11-20-ketaki-fashion-original-imagc86gjg4ggegy.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/h/l/o/l-cw11-20-ketaki-fashion-original-imagc86ggw6qv3hf.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/1/f/a/l-cw11-20-ketaki-fashion-original-imagc86gwecnbs2n.jpeg?q=70" ],
+            sellingPrice:"1299",
+            disPrice:"236",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD005A423",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Solid Viscose Rayon Straight Kurta  (Dark Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/z/r/g/xxl-rf-184-petrol-blue-new4u-original-imag6as2xts2q2b5.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/v/i/e/xxl-rf-184-petrol-blue-new4u-original-imag6as2vzfx84ht.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/k/v/y/xxl-rf-184-petrol-blue-new4u-original-imag6as2cctvfefn.jpeg?q=70" ],
+            sellingPrice:"1199",
+            disPrice:"299",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD010A428",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+        ]
+     }
+]
+
+const TrendingKurtiCollections = [
+    {
+        title:"TrendingKurtiCollections",
+        Productlist:[
+        {
+            title:"Women Embroidered Viscose Rayon High Low Kurta  (Green)",
+            Image:[
+               "https://rukminim1.flixcart.com/image/832/832/klcmoi80/kurta/b/x/w/3xl-navya-a-1-ak-fab-original-imagyhhhdjy97a6b.jpeg?q=70",
+               "https://rukminim1.flixcart.com/image/832/832/klcmoi80/kurta/j/p/5/3xl-navya-a-1-ak-fab-original-imagyhhhhfjwbnty.jpeg?q=70",
+               "https://rukminim1.flixcart.com/image/832/832/klcmoi80/kurta/p/q/4/3xl-navya-a-1-ak-fab-original-imagyhhhc68hrymz.jpeg?q=70"
+            ],
+            sellingPrice:"1299",
+            disPrice:"549",
+            disPrsent:"57%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAAL2001A139",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupatta)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Reyon"
+            },
+        },
+        {
+            title:"Women Embroidered Cotton Blend Anarkali Kurta  (Maroon)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/o/f/t/xxl-1051plykmaroon-yash-gallery-original-imag3sh5tj7fjh94-bb.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kplisnk0/kurta/a/w/r/xxl-1051plykmaroon-yash-gallery-original-imag3sh5pvv3gzwf.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kplisnk0/kurta/b/o/n/xxl-1051plykmaroon-yash-gallery-original-imag3sh5hjbe3wsh.jpeg?q=70"
+            ],
+            sellingPrice:"3999",
+            disPrice:"909",
+            disPrsent:"77%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYC3001A143",
+                idealFor:"Women",
+                packOf:"1(Kurti + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy tesla slub"
+            },
+        },
+        {
+            title:"Women Striped Cotton Rayon A-line Kurta  (Orange)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/a/w/t/l-digitalkurti-indian-fashionista-original-imaghtcyrvfsurez.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/r/q/a/l-digitalkurti-indian-fashionista-original-imaghtcybghhgshc.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/v/t/u/l-digitalkurti-indian-fashionista-original-imaghtcyknanfu3h.jpeg?q=70"
+            ],
+            sellingPrice:"1499",
+            disPrice:"279",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRARO1003A186",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Regular Wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Multicolor)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kwwfte80/kurta/3/2/v/xl-hk001-hardik-fab-original-imag9han3nhkjqjg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kwwfte80/kurta/7/5/d/xl-hk001-hardik-fab-original-imag9han6dwx3ru4.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kwwfte80/kurta/c/l/o/xl-hk001-hardik-fab-original-imag9hantjber87k.jpeg?q=70"
+            ],
+            sellingPrice:"1,299",
+            disPrice:"449",
+            disPrsent:"65%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAAL2004A142",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupatta)",
+                occasion:"Daily Wear,Casual wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Striped Khadi Cotton A-line Kurta  (Light Blue)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/1/q/s-rf-pure-khadi-green-rimeline-fashion-original-imagjhy5en8fa5nw.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/j/o/o/s-rf-pure-khadi-green-rimeline-fashion-original-imagjhy5epw4gsh2.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/n/m/s/s-rf-pure-khadi-green-rimeline-fashion-original-imagjhy5bvc7vayj.jpeg?q=70"
+            ],
+            sellingPrice:"1299",
+            disPrice:"329",
+            disPrsent:"74%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAGYVL35002A136",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom)",
+                occasion:"Festive,Party wear",
+                fabric:"Slub linen striped"
+            },
+        },
+        {
+            title:"Women Solid Cotton Blend Straight Kurta  (Blue)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kd1zngw0/kurta/b/w/y/m-yash-gallery-women-s-cotton-slub-cambric-cotton-patch-work-a-original-imafufpfytazzaa8.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kd1zngw0/kurta/w/n/h/m-yash-gallery-women-s-cotton-slub-cambric-cotton-patch-work-a-original-imafufpf2eu24dww.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kd1zngw0/kurta/p/x/s/m-yash-gallery-women-s-cotton-slub-cambric-cotton-patch-work-a-original-imafufpff3apmbhg.jpeg?q=70"
+            ],
+            sellingPrice:"819",
+            disPrice:"3,799",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRCYC3003A145",
+                idealFor:"Women",
+                packOf:"1(Kurti + Duppta)",
+                occasion:"Festive,Party wear",
+                fabric:"Heavy tesla slub"
+            },
+        },
+        {
+            title:"Women Self Design Cotton Blend A-line Kurta  (Dark Green)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/kurta/j/f/3/xxl-s-p-2-bottle-green-somnath-collection-original-imagetr5ebhgbbbg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/kurta/c/m/0/xxl-s-p-2-bottle-green-somnath-collection-original-imagetr5xhecju4g.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/kurta/x/b/x/xxl-s-p-2-bottle-green-somnath-collection-original-imagetr5npvche9h.jpeg?q=70"
+            ],
+            sellingPrice:"999",
+            disPrice:"236",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAARVL33003A192",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Regular Wear",
+                fabric:"Slub cotton"
+            },
+        },
+        {
+            title:"Women Printed Crepe Straight Kurta  (Yellow)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l51d30w0/kurta/p/x/t/xxl-ri-530350-1-stop-fashion-original-imagfsvawzxhgv7a.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l51d30w0/kurta/m/u/y/xxl-ri-530350-1-stop-fashion-original-imagfsvafzphgdem.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l51d30w0/kurta/1/y/l/xxl-ri-530350-1-stop-fashion-original-imagfsvajghkyfpr.jpeg?q=70"
+            ],
+            sellingPrice:"999",
+            disPrice:"169",
+            disPrsent:"83%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               's','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMMH303A252",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Viscose saffon slub"
+            },
+        },
+        {
+            title:"Women Printed Viscose Rayon Anarkali Kurta  (Pink)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kij6f0w0-0/dress/q/2/s/xl-aadya-leaf-print-gown-sri-aadya-creation-original-imafyaptbvvrhs2z.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kij6f0w0-0/dress/d/q/j/m-aadya-leaf-print-gown-sri-aadya-creation-original-imafyaptxyddyskw.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kingqkw0-0/kurta/9/c/i/l-women-paisley-rayon-gown-pink-kurta-dress-vyshivka-original-imafyecdh6hzwbvm.jpeg?q=70"
+            ],
+            sellingPrice:"799",
+            disPrice:"359",
+            disPrsent:"55%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               'M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAAL2002A140",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupptta)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Embroidered Viscose Rayon Straight Kurta",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l27wtjk0/kurta/u/w/h/3xl-new-folder-kurti-pink-vikshita-fashion-original-imagdhu7f8bvcmvg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l05lx8w0/kurta/2/w/x/3xl-red-kurta-lemoda-fashion-original-imagcyeqeq3znbru.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kzpw2vk0/kurta/i/h/u/xl-bhandni-print-red-m-size-bhavya-fashion-hub-original-imagbz5zhffjjxhn.jpeg?q=70"
+            ],
+            sellingPrice:"600",
+            disPrice:"315",
+            disPrsent:"47%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               'M','L','XL',"XXL"
+            ],
+            ProductDetails:{
+                productCode:"SHKRAR01002A185",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Reguler wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Solid Cotton Blend A-line Kurta  (Green)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l52sivk0/kurta/y/8/1/l-287yk253green-yash-gallery-original-imagfu3thcjedfze.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l52sivk0/kurta/n/h/t/l-287yk253green-yash-gallery-original-imagfu3tmrsbzbbp.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l52sivk0/kurta/f/6/k/l-287yk253green-yash-gallery-original-imagfu3tshghh86a.jpeg?q=70"
+            ],
+            sellingPrice:"2,899",
+            disPrice:"759",
+            disPrsent:"73%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               'M','L','XL',"XXL"
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAKN1003A198",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Fastive wear",
+                fabric:"Cotton"
+            },
+        }                    
+    ]
+    }
+]
+
 const Specialsareecollections = [
     {
         title:"Special saree collections",
@@ -5590,215 +6079,11 @@ const Specialsareecollections = [
     }
 ]
 
-const StylishKurtiCollections = [
-    {
-        title:"Stylish Kurti Collections",
-        Productlist:[
-        {
-            title:"Women Printed Crepe Straight Kurta  (Pink)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/s/7/d/l-530245-1-stop-fashion-original-imag5m8zbh4g2fha.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/3/u/q/l-530245-1-stop-fashion-original-imag5m8z9dyxetak.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/knqd3m80/kurta/n/f/i/xxl-219-217-245-1-stop-fashion-original-imag2cpxudcumtyn.jpeg?q=70"],
-            sellingPrice:"999",
-            disPrice:"269",
-            disPrsent:"73%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD003A421",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Printed Pure Cotton Straight Kurta  (Pink)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/x/1/r/xxl-gw104-3-glowworld-original-imafwzhfaubzfzuf.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/c/6/o/xxl-gw104-3-glowworld-original-imafwzhfybgeuzja.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/z/w/b/xxl-gw104-3-glowworld-original-imafwzhfvjw9wfvc.jpeg?q=70"],
-            sellingPrice:"1499",
-            disPrice:"314",
-            disPrsent:"79%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD006A424",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Printed Viscose Rayon Straight Kurta  (Multicolor)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/b/b/b/l-lc0031-leaf-creation-original-imag5xh6h4msdcxh.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/c/3/i/l-lc0031-leaf-creation-original-imag5xh6wrbdueut.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/l/g/r/l-lc0031-leaf-creation-original-imag5xh6vjmhzzjt.jpeg?q=70"],
-            sellingPrice:"1499",
-            disPrice:"248",
-            disPrsent:"81%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD001A419",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Printed Viscose Rayon Straight Kurta  (Green)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/q/r/p/m-741-rama-kurta-tanjan-original-imagynwq2tbm5ccz.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/g/x/m-741-rama-kurta-tanjan-original-imagynwqghkvm3gk.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/o/d/b/m-741-rama-kurta-tanjan-original-imagynwqryuh57sp.jpeg?q=70"],
-            sellingPrice:"1599",
-            disPrice:"314",
-            disPrsent:"80%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD004A422",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Printed Cotton Blend Straight Kurta  (Blue)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/f/2/y/xl-kp-0116-k-21-kannahi-original-imagchyb8vhrfcsy.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/a/a/t/xl-kp-0116-k-21-kannahi-original-imagchybsbgfddyq.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/u/m/u/xl-kp-0116-k-21-kannahi-original-imagchyb4rgbacvx.jpeg?q=70"],
-            sellingPrice:"1649",
-            disPrice:"509",
-            disPrsent:"69%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD007A425",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Leheriya Pure Cotton Straight Kurta  (Orange)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/j/c/l-kr-4381-darkorange-lee-moda-original-imagg23w2tj8hpkp.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/p/j/g/l-kr-4381-darkorange-lee-moda-original-imagg23wxzttp5c9.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/l/w/x/l-kr-4381-darkorange-lee-moda-original-imagg23wqwkce4k8.jpeg?q=70"],
-            sellingPrice:"1999",
-            disPrice:"254",
-            disPrsent:"87%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD002A420",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Printed Cotton Blend Straight Kurta  (Maroon)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/2/o/f/l-cw11-20-ketaki-fashion-original-imagc86gjg4ggegy.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/h/l/o/l-cw11-20-ketaki-fashion-original-imagc86ggw6qv3hf.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/1/f/a/l-cw11-20-ketaki-fashion-original-imagc86gwecnbs2n.jpeg?q=70" ],
-            sellingPrice:"1299",
-            disPrice:"236",
-            disPrsent:"81%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD005A423",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-
-
-           {
-            title:"Women Solid Viscose Rayon Straight Kurta  (Dark Blue)",
-            Image:["https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/z/r/g/xxl-rf-184-petrol-blue-new4u-original-imag6as2xts2q2b5.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/v/i/e/xxl-rf-184-petrol-blue-new4u-original-imag6as2vzfx84ht.jpeg?q=70",
-                   "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/k/v/y/xxl-rf-184-petrol-blue-new4u-original-imag6as2cctvfefn.jpeg?q=70" ],
-            sellingPrice:"1199",
-            disPrice:"299",
-            disPrsent:"75%",
-            soldBy:"SHOPPEEN",
-            COD:"Available",
-            Status:"In-Stock",
-            quantity:"1",
-            Size:[
-                'L','XL','XXL'
-            ],
-            ProductDetails:{
-                ProductCode:"SHKAGYCRMD010A428",
-                idealFor:"Women",
-                packOf:"1",
-                occasion:"Daily wear,Casual wear",
-                fabric:"Rayon"
-              }
-           }, 
-        ]
-     }
-]
-
 module.exports = {
     Categories, 
     Westerndresscollections,
-    Specialsareecollections,
-    StylishKurtiCollections
+    StylishKurtiCollections,
+    TrendingKurtiCollections,
+    Specialsareecollections
+   
 }
