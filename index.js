@@ -11,15 +11,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cors())
 
 app.use('/all/categris',require('./datarouter'))
-
 app.use('/api/signup',require('./routers/signuprouters'))
-
 app.use('/api/wishlish', require('./routers/wishlishrouters'));
-
 app.use('/api/addcard',require('./routers/addcardrouters'))
-// app.get("/server",(req,res)=>{
-//     res.send("Hello servess......")
-// })
 app.use('/api/address',require("./routers/addressrouters"))
 
 

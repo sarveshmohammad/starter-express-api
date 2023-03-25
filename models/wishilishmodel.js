@@ -2,7 +2,8 @@ const mongoose = require('mongoose');
 const wishlish = new mongoose.Schema({
     title: {  type: String },
     dis: { type: String },
-    price: {type: Number},
+    price: {type: String},
+    disprsent:({type:String}),
     img: {type: String},
     user_id:{type: String}
 }, 
