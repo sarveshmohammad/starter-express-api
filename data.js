@@ -5051,20 +5051,18 @@ HoursDelivery={
 }
 ]
 
-const TrendingKurtiCollections = [
+const Westerndresscollections = [
     {
-        title:"TrendingKurtiCollections",
+        title:"Western dress collections",
         Productlist:[
         {
-            title:"MID LENGTH KURTI RIYA ALICE KHATLI WORK ( BLACK )",
-            Image:[
-                "https://dvlt0mtg4c3zr.cloudfront.net/fit-in/52x72/filters:format(webp)/dWPOCUQxvGTNqrlT6cU7Y-PICTURE%201.jpg",
-                "https://dvlt0mtg4c3zr.cloudfront.net/fit-in/52x72/filters:format(webp)/zPwEQ0Aulwtk37AfxDjSw-PICTURE%202.jpg",
-                "https://dvlt0mtg4c3zr.cloudfront.net/fit-in/52x72/filters:format(webp)/XISL4ri3KE9aUhjIZR82Y-PICTURE%203.jpg"
-            ],
-            sellingPrice:"2799",
-            disPrice:"1100",
-            disPrsent:"60%",
+            title:"Women Fit and Flare Yellow Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyxb9u80/dress/l/w/n/s-ddc-0022-dream-cloth-original-imagbfu4brtgyfvg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyxb9u80/dress/d/y/x/s-ddc-0022-dream-cloth-original-imagbfu4g7urr4pg.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"499",
+            disPrsent:"75%",
             soldBy:"SHOPPEEN",
             COD:"Available",
             Status:"In-Stock",
@@ -5073,18 +5071,738 @@ const TrendingKurtiCollections = [
                 'S','M','L','XL','XXL'
             ],
             ProductDetails:{
-                productCode:"SHSLSKC77721A29",
+                productCode:"SHKWWEST380A415",
                 idealFor:"Women",
                 packOf:"1",
-                occasion:"Festive, Party wear",
-                fabric:"Cotton"
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
             }
         },
+        {
+            title:"Women Maxi Red Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkfak6rgfuf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkftzyd3gwj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkggss7razf.jpeg?q=70"],
+            sellingPrice:"2499",
+            disPrice:"1660",
+            disPrsent:"33%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST378A413",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Fit and Flare Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/i/3/xxl-women-middi-zeshe-meshe-original-imagmcacupgwygwc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/i/7/xxl-women-middi-zeshe-meshe-original-imagmcacbqu5cufz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/i/i/c/xxl-women-middi-zeshe-meshe-original-imagmcacezd3ry3w.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST379A414",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Fit and Flare Green Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/h/d/i/s-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshcgacqdkc7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/w/s/h/l-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshcnzamnht6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/w/f/u/s-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshczgg4qk87.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"499",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWESTT377A412",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Maxi Red, White Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kwxv98w0/dress/u/a/o/s-gmlr087-g-m-collections-original-imag9g4ntwgyhuu6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/128/128/kwxv98w0/dress/b/9/m/s-gmlr087-g-m-collections-original-imag9g4nzw2vvxyn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/128/128/kwxv98w0/dress/o/d/s/s-gmlr087-g-m-collections-original-imag9g4nuvyyhyp4.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"599",
+            disPrsent:"40%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST371A409",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women A-line Maroon Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/xs-lr790-maroon-g-m-collections-original-imafttb7jssqyewv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb74hvy3a9t.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb7gfzpnhgc.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"599",
+            disPrsent:"53%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST373A411",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Chiffon satin"
+            }
+        },
+        {
+            title:"Women A-line Maroon Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/xs-lr790-maroon-g-m-collections-original-imafttb7jssqyewv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb74hvy3a9t.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb7gfzpnhgc.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"599",
+            disPrsent:"53%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST373A411",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"satin"
+            }
+        },
+        {
+            title:"Women Fit and Flare Pink Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/o/x/k/l-women-middi-zeshe-meshe-original-imagmcadbvgtz8xp.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/z/p/g/l-women-middi-zeshe-meshe-original-imagmcadujfdguvh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/x/o/e/l-women-middi-zeshe-meshe-original-imagmcadnkgycywr.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST382A416",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Fit and Flare Pink Dress",
+            Image:["https://rukminim1.flixcart.com/image/128/128/xif0q/dress/p/s/w/s-women-middi-zeshe-meshe-original-imagmcachkcnkg8q.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/r/m/h/s-women-middi-zeshe-meshe-original-imagmcacqhjvxm7g.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/o/6/k/l-mehendi-colour-solid-mid-length-dress-for-women-shama-original-imagmng8v5ktfrrf.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST382A416",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Skater White Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/k65d18w0/dress/5/v/y/m-black-ak-fashion-original-imafgu2wpejsmanc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k65d18w0/dress/5/v/y/l-black-ak-fashion-original-imafgu2wzwr3dmgt.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/jykfxjk0/dress/j/z/r/xl-bczwd11-xl-new-latest-designer-party-wear-rayon-lygra-white-original-imafgqbmf95sdzsv.jpeg?q=70"],
+            sellingPrice:"2665",
+            disPrice:"498",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST382A416",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Satin"
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
         
     ]
     }
 ]
 
+const Specialsareecollections = [
+    {
+        title:"Special saree collections",
+        Productlist:[
+        {
+            title:"Digital Print Bollywood Chiffon, Brasso Saree  (Orange)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/2/l/y/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfwrbs7qw4c9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/4/w/c/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfwrfbcgp9xq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/3/k/1/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfwrvqsenchf.jpeg?q=70"],
+            sellingPrice:"629",
+            disPrice:"2999",
+            disPrsent:"79%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANVASNV22001A09",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Printed, Floral Print, Paisley Bollywood Chiffon, Brasso Saree  (Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/z/6/free-wedding-partywear-fancy-plain-simple-stylish-new-latest-original-imaghtpzymbzchhh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/q/l/1/free-wedding-partywear-fancy-plain-simple-stylish-new-latest-original-imaghtpz83bqzhpq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/n/k/free-wedding-partywear-fancy-plain-simple-stylish-new-latest-original-imaghtpz7tezafdw.jpeg?q=70"],
+            sellingPrice:"629",
+            disPrice:"2499",
+            disPrsent:"74%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANFALAK1002A11",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Woven Kanjivaram Jacquard, Art Silk Saree  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l4x2rgw0/sari/7/e/s/free-abha-swannah-unstitched-original-imagfpgbg6gruzcg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/4/w/o/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncxbw3ag54h.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/z/9/y/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncxbzb2bhpp.jpeg?q=70"],
+            sellingPrice:"270",
+            disPrice:"3499",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANAMRITA1002A14",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"China chiffon"
+            }
+        },
+        {
+            title:"Woven Banarasi Silk Blend, Pure Silk Saree  (Purple)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/a/g/free-163-applix-style-unstitched-original-imagknhstgzser5x.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/6/p/free-shrushti-aryanari-unstitched-original-imagknhs5vdk9gfx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/v/8/free-shrushti-aryanari-unstitched-original-imagknhss2esnrst.jpeg?q=70"],
+            sellingPrice:"350",
+            disPrice:"3299",
+            disPrsent:"89%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANBEPA1002A04",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Vichitra silk"
+            }
+        },
+        {
+            title:"Printed, Self Design, Floral Print Kalamkari Silk Blend Saree  (Mustard)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2yyqzestjazq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2xzsrhqkwayr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2y27kgeazfc6.jpeg?q=70"],
+            sellingPrice:"279",
+            disPrice:"1749",
+            disPrsent:"84%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANRAMYA1001A41",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Banarasi"
+            }
+        },
+        {
+            title:"Self Design Bollywood Satin Saree  (Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/k/x/9/free-elegant-premey-stitched-original-imaggdyynqasm4ug.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/o/v/k/free-elegant-premey-stitched-original-imaggdyypyfbgfa5.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/o/f/free-elegant-premey-stitched-original-imaggdyyuhtgpfwr.jpeg?q=70"],
+            sellingPrice:"529",
+            disPrice:"999",
+            disPrsent:"47%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANANU1001A13",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Synthetic"
+            }
+        },
+        {
+            title:"Printed, Self Design, Floral Print Mysore Silk Blend Saree  (Red))",
+            Image:["https://rukminim1.flixcart.com/image/832/832/k547l3k0/sari/p/u/9/free-combosr-a-76023-ishin-original-imaf2yyahkjbu7qc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k547l3k0/sari/p/u/9/free-combosr-a-76023-ishin-original-imaf2y7wzsdduvzm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/s/k/s/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf3uk7q4t7ytht.jpeg?q=70"],
+            sellingPrice:"287",
+            disPrice:"1499",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANFALAK1007A11",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Embellished Bollywood Georgette Saree  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l3vxbbk0/sari/c/v/v/free-bansi-aqua-blue-disha-fashion-unstitched-original-imagewjkzufkgcmg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l3vxbbk0/sari/c/h/x/free-bansi-aqua-blue-disha-fashion-unstitched-original-imagewjk9egmdvnj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l3vxbbk0/sari/h/u/a/free-bansi-aqua-blue-disha-fashion-unstitched-original-imagewjkr6emarc7.jpeg?q=70"],
+            sellingPrice:"288",
+            disPrice:"3999",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANKAVYA1001A10",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Embroidered Bollywood Chiffon Saree  (Dark Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/p/4/o/free-moti-the-gallery-shop-unstitched-original-imagavc5zz5azzcv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/6/0/l/free-moti-the-gallery-shop-unstitched-original-imagavc5hsnw36zz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxnl6kw0/sari/q/z/h/free-blue-moti-work-saree-mydoux-unstitched-original-imaga2ba4tu2hcqr.jpeg?q=70"],
+            sellingPrice:"431",
+            disPrice:"999",
+            disPrsent:"56%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANFES1001A05",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+            }
+        },
+        {
+            title:"Digital Print Bollywood Chiffon, Brasso Saree  (Red)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/f/2/8/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfx7gvvg7wy9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/v/y/l/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfx7zgqztg6b.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/d/z/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfx7cf3gr9dh.jpeg?q=70"],
+            sellingPrice:"629",
+            disPrice:"2999",
+            disPrsent:"79%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANEMILIA1002A37",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Synthetic"
+            }
+        },
+        {
+            title:"Printed Mysore Art Silk Saree  (Grey)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kk5rgy80/sari/6/w/9/free-self17d10new-desirable-admirable-most-south-indian-bengali-original-imafzkh2vsrq7rhu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kk5rgy80/sari/3/d/r/free-self17d10new-desirable-admirable-most-south-indian-bengali-original-imafzkh2hreqcgmg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kk5rgy80/sari/u/7/x/free-self17d10new-desirable-admirable-most-south-indian-bengali-original-imafzkh2mw5n4ywz.jpeg?q=70"],
+            sellingPrice:"287",
+            disPrice:"3999",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANRASH1004A47",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Black rangoli"
+            }
+        },
+        {
+            title:"Woven Kanjivaram Silk Blend, Art Silk Saree  (Multicolor)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kyhlfgw0/sari/m/w/2/free-parrot-1-multimall-unstitched-original-imagapuvhdhh54te.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/p/g/z/free-silk-samruddhi-unstitched-original-imagapuvhhhdaxcp.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/s/v/f/free-silk-samruddhi-unstitched-original-imagf8qrynwbzdn6.jpeg?q=70"],
+            sellingPrice:"336",
+            disPrice:"2899",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANBRI1001A15",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive Wear",
+                fabric:"Synthetic"
+            }
+        },
+
+
+
+        
+    ]
+
+    }
+]
+
+const StylishKurtiCollections = [
+    {
+        title:"Stylish Kurti Collections",
+        Productlist:[
+        {
+            title:"Women Printed Crepe Straight Kurta  (Pink)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/s/7/d/l-530245-1-stop-fashion-original-imag5m8zbh4g2fha.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/krxtrww0/kurta/3/u/q/l-530245-1-stop-fashion-original-imag5m8z9dyxetak.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/knqd3m80/kurta/n/f/i/xxl-219-217-245-1-stop-fashion-original-imag2cpxudcumtyn.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"269",
+            disPrsent:"73%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD003A421",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Pure Cotton Straight Kurta  (Pink)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/x/1/r/xxl-gw104-3-glowworld-original-imafwzhfaubzfzuf.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/c/6/o/xxl-gw104-3-glowworld-original-imafwzhfybgeuzja.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kgv5x8w0-0/kurta/z/w/b/xxl-gw104-3-glowworld-original-imafwzhfvjw9wfvc.jpeg?q=70"],
+            sellingPrice:"1499",
+            disPrice:"314",
+            disPrsent:"79%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD006A424",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Viscose Rayon Straight Kurta  (Multicolor)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/b/b/b/l-lc0031-leaf-creation-original-imag5xh6h4msdcxh.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/c/3/i/l-lc0031-leaf-creation-original-imag5xh6wrbdueut.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/ksc46fk0/kurta/l/g/r/l-lc0031-leaf-creation-original-imag5xh6vjmhzzjt.jpeg?q=70"],
+            sellingPrice:"1499",
+            disPrice:"248",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD001A419",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Viscose Rayon Straight Kurta  (Green)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/q/r/p/m-741-rama-kurta-tanjan-original-imagynwq2tbm5ccz.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/g/x/m-741-rama-kurta-tanjan-original-imagynwqghkvm3gk.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/o/d/b/m-741-rama-kurta-tanjan-original-imagynwqryuh57sp.jpeg?q=70"],
+            sellingPrice:"1599",
+            disPrice:"314",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD004A422",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Cotton Blend Straight Kurta  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/f/2/y/xl-kp-0116-k-21-kannahi-original-imagchyb8vhrfcsy.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/a/a/t/xl-kp-0116-k-21-kannahi-original-imagchybsbgfddyq.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0r1j0w0/kurta/u/m/u/xl-kp-0116-k-21-kannahi-original-imagchyb4rgbacvx.jpeg?q=70"],
+            sellingPrice:"1649",
+            disPrice:"509",
+            disPrsent:"69%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD007A425",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Leheriya Pure Cotton Straight Kurta  (Orange)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/j/c/l-kr-4381-darkorange-lee-moda-original-imagg23w2tj8hpkp.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/p/j/g/l-kr-4381-darkorange-lee-moda-original-imagg23wxzttp5c9.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/l/w/x/l-kr-4381-darkorange-lee-moda-original-imagg23wqwkce4k8.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"254",
+            disPrsent:"87%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD002A420",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Printed Cotton Blend Straight Kurta  (Maroon)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/2/o/f/l-cw11-20-ketaki-fashion-original-imagc86gjg4ggegy.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/h/l/o/l-cw11-20-ketaki-fashion-original-imagc86ggw6qv3hf.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/l0fm07k0/kurta/1/f/a/l-cw11-20-ketaki-fashion-original-imagc86gwecnbs2n.jpeg?q=70" ],
+            sellingPrice:"1299",
+            disPrice:"236",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD005A423",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Solid Viscose Rayon Straight Kurta  (Dark Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/z/r/g/xxl-rf-184-petrol-blue-new4u-original-imag6as2xts2q2b5.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/v/i/e/xxl-rf-184-petrol-blue-new4u-original-imag6as2vzfx84ht.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/kurta/k/v/y/xxl-rf-184-petrol-blue-new4u-original-imag6as2cctvfefn.jpeg?q=70" ],
+            sellingPrice:"1199",
+            disPrice:"299",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD010A428",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+        ]
+     }
+]
+
+
+
+
+
 module.exports = {
-    Categories,  
+    Categories, 
+    Westerndresscollections,
+    Specialsareecollections,
+    StylishKurtiCollections
 }
