@@ -1,5 +1,5 @@
 const express= require('express');
-const {} = require('../data')
+const {Categories,Westerndresscollections,Specialsareecollections,StylishKurtiCollections} = require('../data')
 
 const router = express.Router();
 
