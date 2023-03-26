@@ -1,8 +1,10 @@
 const express= require('express');
-const {Categories,Westerndresscollections,StylishKurtiCollections,TrendingKurtiCollections,Specialsareecollections,FashionSareeCollections,
-    TopSellingKurti,LongKurtiCollections,TopSareeCollectins,WomensSareeCollections,
-    DressesforYou,WesternDressesForWomen,BridalWeddingCollection,
-    StellarStylesForHim} = require('../data')
+const {
+    Categories,Westerndresscollections,StylishKurtiCollections,TrendingKurtiCollections,
+    Specialsareecollections,FashionSareeCollections,TopSellingKurti,LongKurtiCollections,
+    TopSareeCollectins,WomensSareeCollections,DressesforYou,WesternDressesForWomen,
+    BridalWeddingCollection,StellarStylesForHim,NewArrivalsTrousers
+} = require('../data')
 
 const router = express.Router();
 
@@ -51,8 +53,8 @@ router.get('/BWC',(req,res)=>{
 router.get('/SSFH',(req,res)=>{
     res.json({status:true,StellarStylesForHim})
 }) 
-
-
-
+router.get('/NAT',(req,res)=>{
+    res.json({status:true,NewArrivalsTrousers})
+}) 
 
 module.exports = router;

@@ -7809,8 +7809,315 @@ const StellarStylesForHim = [
      }
 ]
 
+const NewArrivalsTrousers = [
+    {
+        title:"New Arrivals Trousers",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Light Blue Cotton Lycra",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/34-220498-tahvo-original-imafdgcq3aghwrjw.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/32-220498-tahvo-original-imafdgcqmprzhzxh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/34-220498-tahvo-original-imafdgcqaky9dkzz.jpeg?q=70"
+                ],
+                sellingPrice:"1749",
+                disPrice:"1169",
+                disPrsent:"33%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA496",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash , Machine Wash",
+                }
+            },
+            { 
+                title:"Slim Fit Men Cotton Lycra Blend Dark Blue Cotton Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/u/t/-original-imagk5ktcz8bubtp.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/3/a/p/-original-imagk5ktsp4vsamh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/v/t/0/-original-imagk5kt39vyzz8m.jpeg?q=70"
+                ],
+                sellingPrice:"1999",
+                disPrice:"539",
+                disPrsent:"73%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPPGPPA497",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Beige Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/s/c/o/34-chinos-beige-pesado-original-imagnjqz3bh6qw9m.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/6/h/d/34-chinos-beige-pesado-original-imagnjqzvwp7vtft.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/5/i/c/34-chinos-beige-pesado-original-imagnjqzg9gnyzwh.jpeg?q=70"
+                ],
+                sellingPrice:"999",
+                disPrice:"524",
+                disPrsent:"47%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA498",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Beige",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/l/5/o/32-vhtffslfc98425-van-heusen-original-imaggd2bhy29kyan.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/f/k/f/32-vhtffslfc98425-van-heusen-original-imaggd2bfyvbjuum.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/f/u/l/32-vhtffslfc98425-van-heusen-original-imaggd2bmuadcxy7.jpeg?q=70"
+                   ],
+                sellingPrice:"3299",
+                disPrice:"1649",
+                disPrsent:"50%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA502",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Regular Fit Maroon",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/r/h/m/32-u39-baleno-maroon-aa-ad-av-original-imagn3aydchuanqm.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/j/g/32-u39-baleno-maroon-aa-ad-av-original-imagn3aycdazmyer.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/b/p/5/32-u39-baleno-maroon-aa-ad-av-original-imagn3ay3b6g8nnk.jpeg?q=70"
+                ],
+                sellingPrice:"1299",
+                disPrice:"459",
+                disPrsent:"64%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA507",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Smart Flex Men Regular Fit Blue Viscose Rayon Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/l37mtu80/trouser/c/h/d/34-aradtr2053-arrow-original-imagedwab9ygzehg.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l37mtu80/trouser/p/m/h/34-aradtr2053-arrow-original-imagedwafg7ud5r3.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l37mtu80/trouser/o/u/0/34-aradtr2053-arrow-original-imagedwamdfh9yqy.jpeg?q=70"
+                ],
+                sellingPrice:"2499",
+                disPrice:"1354",
+                disPrsent:"45%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA503",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit White Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/kwwfte80/trouser/m/a/k/32-nos-ares-sky-blue-mf-cly-classic-polo-original-imag9gw4bptahdza.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kwwfte80/trouser/4/d/4/42-nos-ares-sky-blue-mf-cly-classic-polo-original-imag9gw4taar3cqa.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kwwfte80/trouser/b/y/q/42-nos-ares-sky-blue-mf-cly-classic-polo-original-imag9gw4rkebgmzc.jpeg?q=70"
+                ],
+                sellingPrice:"1699",
+                disPrice:"1453",
+                disPrsent:"14%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA505",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Green Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/kqzj7gw0/trouser/7/h/6/30-pctrousers5-vandnam-fabrics-original-imag4vqsgyhqxcf4.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kqzj7gw0/trouser/n/g/g/30-pctrousers5-vandnam-fabrics-original-imag4vqsnzazqutb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kqzj7gw0/trouser/q/j/v/30-pctrousers5-vandnam-fabrics-original-imag4vqsg5phfxmm.jpeg?q=70"
+                ],
+                sellingPrice:"2798",
+                disPrice:"1249",
+                disPrsent:"55%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA506",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Gold Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/i/i/v/36-chinos-khaki-pesado-original-imagnjqzgt8x2zdu.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/h/e/36-chinos-khaki-pesado-original-imagnjqzd8rygzte.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/y/w/f/36-chinos-khaki-pesado-original-imagnjqzfgqusqvg.jpeg?q=70"
+                ],
+                sellingPrice:"999",
+                disPrice:"524",
+                disPrsent:"47%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','L','XL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA499",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Light Blue Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/g/j/s/34-chino-skyblue-urbano-fashion-original-imagjzqfysjqh3qd.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/h/w/r/34-chino-skyblue-urbano-fashion-original-imagjzqfbzxpkyjn.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/j/h/l/34-chino-skyblue-urbano-fashion-original-imagjzqfqhbrh4ac.jpeg?q=70"
+                ],
+                sellingPrice:"1699",
+                disPrice:"649",
+                disPrsent:"61%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA500",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            // { 
+            // //     title:"",
+            // //     Image:[
+            // //         "",
+            // //         "",
+            // //         ""
+            // //     ],
+            // //     sellingPrice:"",
+            // //     disPrice:"",
+            // //     disPrsent:"%",
+            // //     soldBy:"SHOPPEEN",
+            // //     COD:"Available",
+            // //     status:"In-stock",
+            // //     quantity:"1",
+            // //     Size:[
+            // //         'S','M','L','XL','XXL'
+            // //     ],
+            // //     ProductDetails:{
+            // //         productcode:"SHTPGPPA",
+            // //         idealfor:"Men",
+            // //         packof:"1",
+            // //         Fabric:"Lycra",
+            // //         febricCare:"Hand Wash,Machine Wash",
+            // //     }
+            // },
 
 
+            { 
+                title:"Men Slim Fit Blue Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/c/l/36-kctr-2121-nb-fubar-original-imag6judz3wnh85y-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kt4ozgw0/trouser/t/f/l/36-kctr-2121-nb-fubar-original-imag6jud7e6yphth.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kt4ozgw0/trouser/h/2/7/36-kctr-2121-nb-fubar-original-imag6judtxnzgc9t.jpeg?q=70"
+                ],
+                sellingPrice:"1448",
+                disPrice:"499",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA504",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+        ]
+        }
+    ]
 
 
 module.exports = {
@@ -7827,5 +8134,6 @@ module.exports = {
     DressesforYou,
     WesternDressesForWomen,
     BridalWeddingCollection,
-    StellarStylesForHim
+    StellarStylesForHim,
+    NewArrivalsTrousers
 }
