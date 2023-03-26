@@ -5723,7 +5723,7 @@ const TrendingKurtiCollections = [
 
 const Specialsareecollections = [
     {
-        title:"Special saree collections",
+        title:"Special Saree Collections",
         Productlist:[
         {
             title:"Digital Print Bollywood Chiffon, Brasso Saree  (Orange)",
