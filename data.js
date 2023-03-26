@@ -8088,8 +8088,6 @@ const NewArrivalsTrousers = [
             // //         febricCare:"Hand Wash,Machine Wash",
             // //     }
             // },
-
-
             { 
                 title:"Men Slim Fit Blue Cotton Blend Trousers",
                 Image:[
