@@ -6967,9 +6967,157 @@ const TopSareeCollectins = [
     }
 ]
 
-const WomensSareeCollections = [
+const WomenSareeCollections = [
+    {
+        title:"Women Saree collections",
+        Productlist:[
+        {
+            title:"Woven Kanjivaram Jacquard, Art Silk Saree  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l4x2rgw0/sari/7/e/s/free-abha-swannah-unstitched-original-imagfpgbg6gruzcg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/z/9/y/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncxbzb2bhpp.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/o/1/0/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncx7khkbszh.jpeg?q=70"],
+            sellingPrice:"3499",
+            disPrice:"270",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDSWAS1291A693",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"German silk"
+            }
+        },
 
+        {
+            title:"Printed, Self Design, Floral Print Kalamkari Silk Blend Saree  (Mustard)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2yyqzestjazq.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2xzsrhqkwayr.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2y27kgeazfc6.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"298",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDAPEK1498A681",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Wedding Wear,Party Wear",
+                fabric:"Georgette"
+            }
+        },
+    
+        {
+            title:"Printed Bollywood Art Silk Saree  (White)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/kynb6vk0/sari/o/q/v/free-bahubali-white-ontic-lifestyle-unstitched-original-imagatvhhnkk4pyy.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/sari/v/h/d/free-bahubali-white-ontic-lifestyle-unstitched-original-imagatvh2fzkvhym.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/sari/k/r/g/free-bahubali-white-ontic-lifestyle-unstitched-original-imagatvhafcygt9g.jpeg?q=70"],
+            sellingPrice:"1500",
+            disPrice:"298",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDPARI1501A689",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Wedding wear,Party wear",
+                fabric:"Soft glitter net"
+            }
+        }, 
+        
+        {
+            title:"Woven Paithani Jacquard, Art Silk Saree  (Maroon)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/v/l/q/free-df-vishva-maroon-lichi-soft-silk-jacquard-woven-saree-heavy-original-imagh8hytfggqhg8.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/sari/1/z/d/free-gp-vishva-maroonart-silk-designer-bollywood-fashion-style-original-imagdz58gpfzrraq.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/sari/d/n/c/free-gp-vishva-maroonart-silk-designer-bollywood-fashion-style-original-imagdz58guuxewsz.jpeg?q=70"],
+            sellingPrice:"3999",
+            disPrice:"565",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDBRA684",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"Brazzo"
+            }
+        }, 
 
+        {
+            title:"Embroidered Bollywood Chiffon Saree  (Dark Blue)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/p/4/o/free-moti-the-gallery-shop-unstitched-original-imagavc5zz5azzcv.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/5/0/v/free-moti-the-gallery-shop-unstitched-original-imagavc5gaqhrkxg.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kxnl6kw0/sari/q/z/h/free-blue-moti-work-saree-mydoux-unstitched-original-imaga2ba4tu2hcqr.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"431",
+            disPrsent:"56%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDDOL1543A695",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"Chinon silk"
+            }
+        }, 
+
+        {
+            title:"Woven Kanjivaram Jacquard, Pure Silk Saree  (Purple)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/ktizdzk0/shopsy-sari/q/q/c/free-harshita-dream-star-unstitched-original-imag6utqcvfzr96f.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/ktizdzk0/shopsy-sari/u/n/v/free-mb0212-asnr-trend-unstitched-original-imag6ugavh5zqqy9.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kthjy4w0/sari/g/c/t/free-purmbsaree-asnr-trend-unstitched-original-imag6tnapffxfz7y.jpeg?q=70"],
+            sellingPrice:"3299",
+            disPrice:"595",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDGUL1455A679",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Wedding wear,Party wear",
+                fabric:"Rassal net"
+            }
+        }, 
+        
+
+    ]
+    }
 ]
 
 const DressesforYou = [
@@ -8128,7 +8276,7 @@ module.exports = {
     TopSellingKurti,
     LongKurtiCollections,
     TopSareeCollectins,
-    WomensSareeCollections,
+    WomenSareeCollections,
     DressesforYou,
     WesternDressesForWomen,
     BridalWeddingCollection,
