@@ -7368,7 +7368,7 @@ const DressesforYou = [
     
     }
 
- ]
+]
 
  const WesternDressesForWomen = [
     {
@@ -8210,31 +8210,7 @@ const NewArrivalsTrousers = [
                     febricCare:"Hand Wash,Machine Wash",
                 }
             },
-            // { 
-            // //     title:"",
-            // //     Image:[
-            // //         "",
-            // //         "",
-            // //         ""
-            // //     ],
-            // //     sellingPrice:"",
-            // //     disPrice:"",
-            // //     disPrsent:"%",
-            // //     soldBy:"SHOPPEEN",
-            // //     COD:"Available",
-            // //     status:"In-stock",
-            // //     quantity:"1",
-            // //     Size:[
-            // //         'S','M','L','XL','XXL'
-            // //     ],
-            // //     ProductDetails:{
-            // //         productcode:"SHTPGPPA",
-            // //         idealfor:"Men",
-            // //         packof:"1",
-            // //         Fabric:"Lycra",
-            // //         febricCare:"Hand Wash,Machine Wash",
-            // //     }
-            // },
+
             { 
                 title:"Men Slim Fit Blue Cotton Blend Trousers",
                 Image:[
@@ -8262,9 +8238,9 @@ const NewArrivalsTrousers = [
             },
         ]
         }
-    ]
+]
 
-    const Swaiper = [
+const Swaiper2 = [
         {
             title:"shirts",
             Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-YesBrand_Combo_Shirt.png",
@@ -8400,6 +8376,7 @@ const NewArrivalsTrousers = [
 
         {
             title:"velvet-lehengas",
+            Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/4255hs8b5iVJLOTHWdql--lehengas-3x-bannerpng",
             Productlist:[
                 { 
                     title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
@@ -8515,6 +8492,7 @@ const NewArrivalsTrousers = [
 
          {
             title:"trousers",
+            Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Combo_Offer_LYCRA.png",
             Productlist:[
                 { 
                     title:"Men Slim Fit Light Green Cotton Blend Trousers",
@@ -8630,7 +8608,274 @@ const NewArrivalsTrousers = [
                 },
             ],
         },
-    ]
+]
+
+const Swaiper4 = [
+    {
+        title:"long-kurtis",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Offer.png",
+        Productlist:[
+                    {
+                        title:"Women Printed Georgette Gown Kurta  (Purple)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/1/x/u/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3hrhgz9yu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/4/r/v/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3ge9yhaya.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/w/g/t/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3dthyrzfr.jpeg?q=70"
+                        ],
+                        sellingPrice:"2499",
+                        disPrice:"999",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4004A86",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Geometric Print Cotton Blend A-line Kurta  (Pink)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/b/q/xxl-psk103-glorious-original-imaftnbjjzfgxzej-bb.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/9/r/l/xxl-psk103-glorious-original-imaftnbjyrs2myyw.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/4/j/j/xxl-psk103-glorious-original-imaftnbjqytrnzga.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"975",
+                        disPrsent:"59%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4003A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Black)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/r/p/t/xxl-kurti-503-gujari-original-imag883ugsymq2mf.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/b/l/q/xxl-kurti-503-gujari-original-imag883uzzdzvg27.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/g/o/3/xxl-kurti-503-gujari-original-imag883uyqgagsmk.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"755",
+                        disPrsent:"68%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4002A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:" Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Printed, Polka Print Crepe Frontslit Kurta  (Blue)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/h/j/t/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8kgck9agg.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/d/9/r/xxl-combo-printed-kurti-casual-party-wear-latest-pack-of-2-kurta-original-imaggnx8gydkhmuu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/y/b/l/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8ugvm2hx9.jpeg?q=70"
+                        ],
+                        sellingPrice:"1763",
+                        disPrice:"703",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO2A275",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Embroidered Georgette Anarkali Kurta  (Brown)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/klzhq4w0/kurta/n/7/x/3xl-coffe-jaip-m-disha-collection-original-imagyzndymkg6asv.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kiulxu80-0/kurta/z/8/x/m-markr-001-brown-marwar-s-original-imafyjtbthhhmwd6.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kirr24w0-0/kurta/8/t/n/m-markr-001-brown-marwar-s-original-imafyhqqw4kf2gpm.jpeg?q=70"
+                        ],
+                        sellingPrice:"1563",
+                        disPrice:"625",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO4A277",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },   
+                ]
+    },
+    {
+        title:"long-kurtis",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Banner_7.png",
+        Productlist:[
+                    {
+                        title:"Women Printed Georgette Gown Kurta  (Purple)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/1/x/u/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3hrhgz9yu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/4/r/v/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3ge9yhaya.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/w/g/t/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3dthyrzfr.jpeg?q=70"
+                        ],
+                        sellingPrice:"2499",
+                        disPrice:"999",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4004A86",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Geometric Print Cotton Blend A-line Kurta  (Pink)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/b/q/xxl-psk103-glorious-original-imaftnbjjzfgxzej-bb.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/9/r/l/xxl-psk103-glorious-original-imaftnbjyrs2myyw.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/4/j/j/xxl-psk103-glorious-original-imaftnbjqytrnzga.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"975",
+                        disPrsent:"59%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4003A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Black)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/r/p/t/xxl-kurti-503-gujari-original-imag883ugsymq2mf.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/b/l/q/xxl-kurti-503-gujari-original-imag883uzzdzvg27.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/g/o/3/xxl-kurti-503-gujari-original-imag883uyqgagsmk.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"755",
+                        disPrsent:"68%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4002A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:" Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Printed, Polka Print Crepe Frontslit Kurta  (Blue)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/h/j/t/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8kgck9agg.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/d/9/r/xxl-combo-printed-kurti-casual-party-wear-latest-pack-of-2-kurta-original-imaggnx8gydkhmuu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/y/b/l/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8ugvm2hx9.jpeg?q=70"
+                        ],
+                        sellingPrice:"1763",
+                        disPrice:"703",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO2A275",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Embroidered Georgette Anarkali Kurta  (Brown)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/klzhq4w0/kurta/n/7/x/3xl-coffe-jaip-m-disha-collection-original-imagyzndymkg6asv.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kiulxu80-0/kurta/z/8/x/m-markr-001-brown-marwar-s-original-imafyjtbthhhmwd6.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kirr24w0-0/kurta/8/t/n/m-markr-001-brown-marwar-s-original-imafyhqqw4kf2gpm.jpeg?q=70"
+                        ],
+                        sellingPrice:"1563",
+                        disPrice:"625",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO4A277",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },   
+                ]
+              },
+]
+
+
 
 module.exports = {
     Categories, 
@@ -8648,5 +8893,6 @@ module.exports = {
     BridalWeddingCollection,
     StellarStylesForHim,
     NewArrivalsTrousers,
-    Swaiper
+    Swaiper2,
+    Swaiper4
 }

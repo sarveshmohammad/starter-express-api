@@ -3,7 +3,7 @@ const {
     Categories,Westerndresscollections,StylishKurtiCollections,TrendingKurtiCollections,
     Specialsareecollections,FashionSareeCollections,TopSellingKurti,LongKurtiCollections,
     TopSareeCollectins,WomenSareeCollections,DressesforYou,WesternDressesForWomen,
-    BridalWeddingCollection,StellarStylesForHim,NewArrivalsTrousers,Swaiper
+    BridalWeddingCollection,StellarStylesForHim,NewArrivalsTrousers,Swaiper2,Swaiper4
 } = require('../data')
 
 const router = express.Router();
@@ -57,7 +57,10 @@ router.get('/NAT',(req,res)=>{
     res.json({status:true,NewArrivalsTrousers})
 }) 
 router.get('/S',(req,res)=>{
-    res.json({status:true,Swaiper})
+    res.json({status:true,Swaiper2})
+}) 
+router.get('/S',(req,res)=>{
+    res.json({status:true,Swaiper4})
 }) 
 
 module.exports = router;
