@@ -56,7 +56,7 @@ router.get('/SSFH',(req,res)=>{
 router.get('/NAT',(req,res)=>{
     res.json({status:true,NewArrivalsTrousers})
 }) 
-router.get('/swaiper',(req,res)=>{
+router.get('/S',(req,res)=>{
     res.json({status:true,Swaiper})
 }) 
 
