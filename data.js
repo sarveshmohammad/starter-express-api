@@ -7815,7 +7815,6 @@ const BridalWeddingCollection = [
     }
 ]
 
-
 const StellarStylesForHim = [
     {
         title:"Stellar Styles For Him",
@@ -8265,6 +8264,373 @@ const NewArrivalsTrousers = [
         }
     ]
 
+    const Swaiper = [
+        {
+            title:"shirts",
+            Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-YesBrand_Combo_Shirt.png",
+            Productlist:[
+                { 
+                    title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/p/0/5xl-pk19sh09g-surhi-original-imaft8vgvhmhbhsy.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/t/p/e/5xl-pk19sh09g-surhi-original-imaft8y3wdfshukg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/x/z/5xl-pk19sh09g-surhi-original-imaft8vgyqjsyg64.jpeg?q=70"
+                    ],
+                    sellingPrice:"1999",
+                    disPrice:"349",
+                    disPrsent:"82%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'L','XL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBHORIZLINE14A458",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Printed Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/b/u/l-tylshirtful-sh19-tripr-original-imagb2wfpztracex-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/shirt/i/4/4/l-tylshirtful-sh19-tripr-original-imagb2wfzzrhjfq2.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/b/u/l-tylshirtful-sh19-tripr-original-imagb2wfpztracex-bb.jpeg?q=70"
+                    ],
+                    sellingPrice:"1,999",
+                    disPrice:"253",
+                    disPrsent:"87%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','M','L','XL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBSFONTPRTA636",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Printed Spread Collar Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/d/v/l-hm-shirt26-hanumntra-original-imafuqy3q4rzffx7-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shirt/c/u/v/l-hm-shirt26-hanumntra-original-imafuqy3xzwwzhmg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shirt/h/5/x/l-hm-shirt26-hanumntra-original-imafuqy35f6qzwk7.jpeg?q=70"
+                    ],
+                    sellingPrice:"1,899",
+                    disPrice:"379",
+                    disPrsent:"80%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','M','L'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBTRIA20A629",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Solid Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/l4fxh8w0/shirt/z/z/q/xl-cnz-lst-green-p-v-creations-original-imagfc4rhyk2g3mu.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l4fxh8w0/shirt/r/r/w/xl-cnz-lst-green-p-v-creations-original-imagfc4rwncz7hvv.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l4fxh8w0/shirt/l/5/t/xl-cnz-lst-green-p-v-creations-original-imagfc4rxehwygcw.jpeg?q=70"
+                    ],
+                    sellingPrice:"1999",
+                    disPrice:"289",
+                    disPrsent:"85%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','M','L','XL','XXL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBSNJSTYPRATA641",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Printed Spread Collar Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/l1zc6fk0/shirt/q/q/k/44-600-zartha-original-imagdf8evxxh3ydr.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l1zc6fk0/shirt/m/f/3/44-600-zartha-original-imagdf8ezzedznfp.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l1zc6fk0/shirt/q/q/k/44-600-zartha-original-imagdf8evxxh3ydr.jpeg?q=70"
+                    ],
+                    sellingPrice:"2499",
+                    disPrice:"499",
+                    disPrsent:"80%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','XL','XXL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBSCLAWPRTA633",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+            ]
+        },
+
+
+        {
+            title:"velvet-lehengas",
+            Productlist:[
+                { 
+                    title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/i/u/a/free-half-sleeve-l104-foriox-original-imag9yhym6sya9qd.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/g/b/h/free-half-sleeve-l104-foriox-original-imag9yhy4fzv9kny.jpeg?q=70"],
+                    sellingPrice:"18010",
+                    disPrice:"10806",
+                    disPrsent:"40%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKEKA531",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:" Vrlvet",
+                        LehengaBlouseFabric:"Vrlvet"
+                    }
+                },
+                { 
+                    title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/r/h/a/free-sleeveless-l8097-fashionuma-original-imag6hxfawazw8yd.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/q/w/o/free-sleeveless-l8097-fashionuma-original-imag6hxfrtc4v8zz.jpeg?q=70"],
+                    sellingPrice:"18132",
+                    disPrice:"4900",
+                    disPrsent:"72%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKROSEA542",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:" Vrlvet",
+                        LehengaBlouseFabric:" Vrlvet",
+    
+                    }
+                },
+                { 
+                    title:"Digital Print Semi Stitched Lehenga Choli  (Green)",
+                    Image:[  "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/lehenga-choli/b/z/l/free-sleeveless-fidera-organza-fabcartz-original-imagfgrsk8rz92aq.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/lehenga-choli/o/l/c/free-sleeveless-fidera-organza-fabcartz-original-imagfgrsxfnqphjf.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/lehenga-choli/s/e/m/free-sleeveless-fidera-organza-fabcartz-original-imagfgrscrfk2sda.jpeg?q=70"],
+                    sellingPrice:"16999",
+                    disPrice:"10199",
+                    disPrsent:"40%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKSINA546",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:"Vrlvet",
+                        LehengaBlouseFabric:"Vrlvet",
+                    }
+                },
+                { 
+                    title:"Embroidered Semi Stitched Lehenga Choli  (Blue)",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/z/n/8/free-3-4-sleeve-future-wine-goroly-original-imag5ezdwczgyb5m.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/o/m/e/free-3-4-sleeve-future-wine-goroly-original-imag5ezd4rkawhxq.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/t/w/l/free-3-4-sleeve-future-wine-goroly-original-imag5ezdgm3dumzv.jpeg?q=70"],
+                    sellingPrice:"15275",
+                    disPrice:"4800",
+                    disPrsent:"68%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKROSEA543",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:"Vrlvet",
+                        LehengaBlouseFabric:"Vrlvet",
+    
+                    }
+                },
+                { 
+                    title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
+                    Image:[  "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/g/0/m/free-sleeveless-zip1434-zinariya-fab-original-imagnftyaaaqjexa.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/r/f/w/free-sleeveless-zip1434-zinariya-fab-original-imagnftyr5e7aadz.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/v/4/e/free-sleeveless-zip1434-zinariya-fab-original-imagnftyksxk8gec.jpeg?q=70"],
+                    sellingPrice:"25389",
+                    disPrice:"7400",
+                    disPrsent:"70%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCK11A520",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:" Vrlvet",
+                        LehengaBlouseFabric:" Vrlvet",
+    
+                    }
+                },
+            ],
+        },
+
+
+         {
+            title:"trousers",
+            Productlist:[
+                { 
+                    title:"Men Slim Fit Light Green Cotton Blend Trousers",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/klscivk0/trouser/q/q/k/28-sktr-4242-olv-fubar-original-imagyuff8uq6cxny.jpeg?q=70",
+                             "https://rukminim1.flixcart.com/image/832/832/klscivk0/trouser/t/1/k/28-sktr-4242-olv-fubar-original-imagyuffe3pbk4dc.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l15bxjk0/shopsy-trouser/v/b/a/28-shoptr-2121-olive-casual-trousers-fubar-original-imagcrshh34wmnze.jpeg?q=70"],
+                    sellingPrice:"999",
+                    disPrice:"510",
+                    disPrsent:"48%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","XLL"],
+                    ProductDetails:{
+                        productCode:"SHSTYBPPCS452",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Cotton",
+                  }
+                },
+                { 
+                    title:"Men Regular Fit Black Cotton Blend Trousers",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/k/2/q/32-cyfor-a-cyphus-original-imag6yyyedypgvke.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/0/z/n/32-cyfor-a-cyphus-original-imag6yyycmzxqqp2.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/d/g/r/32-cyfor-a-cyphus-original-imag6yyy4uygkbz6.jpeg?q=70"],
+                    sellingPrice:"1299",
+                    disPrice:"450",
+                    disPrsent:"65%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHSTYBMP1A445",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Royon",
+                    
+                    }
+                },
+                { 
+                    title:"Boys Slim Mid Rise Black Jeans",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/y/m/7/10-11-years-j-101-black-pro-ethic-original-imafz533agdpn5gs-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kjlrb0w0-0/jean/o/j/7/9-10-years-j-101-black-pro-ethic-original-imafz533acmgph6e.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kjlrb0w0-0/jean/g/p/w/9-10-years-j-101-black-pro-ethic-original-imafz533ycvwrhxz.jpeg?q=70"
+                    ],
+                    sellingPrice:"1,499",
+                    disPrice:"499",
+                    disPrsent:"66%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L"],
+                    ProductDetails:{
+                        productCode:"SHTPGJ4A439",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Denim",
+                  }
+                },
+                { 
+                    title:"Slim Fit Men Cotton Lycra Blend Dark Blue Cotton Lycra Blend Trousers",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/u/t/-original-imagk5ktcz8bubtp.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/3/a/p/-original-imagk5ktsp4vsamh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/p/3/-original-imagk5ktqzgz4rg8.jpeg?q=70"
+                    ], 
+                    sellingPrice:"1999",
+                    disPrice:"599",
+                    disPrsent:"70%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["L","XL","XLL"],
+                    ProductDetails:{
+                        productCode:"SHTYBCLPA492",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Lycra",
+                  }
+                },
+                { 
+                    title:"Men Tapered Grey Cotton Lycra Blend Trousers",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/l/u/a/-original-imaghm9bazhs85rh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/t/v/z/-original-imaghm9bd6qf4huf.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/7/n/a/-original-imaghm9bknhr7zhm.jpeg?q=70"
+                    ],
+                    sellingPrice:"2799",
+                    disPrice:"1,399",
+                    disPrsent:"50%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","XL","XLL"],
+                    ProductDetails:{
+                        productCode:"SHTYBSLPA478",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Lyctra",
+                  }
+                },
+            ],
+        },
+    ]
 
 module.exports = {
     Categories, 
@@ -8281,5 +8647,6 @@ module.exports = {
     WesternDressesForWomen,
     BridalWeddingCollection,
     StellarStylesForHim,
-    NewArrivalsTrousers
+    NewArrivalsTrousers,
+    Swaiper
 }
