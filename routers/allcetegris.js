@@ -2,7 +2,7 @@ const express= require('express');
 const {
     Categories,Westerndresscollections,StylishKurtiCollections,TrendingKurtiCollections,
     Specialsareecollections,FashionSareeCollections,TopSellingKurti,LongKurtiCollections,
-    TopSareeCollectins,WomensSareeCollections,DressesforYou,WesternDressesForWomen,
+    TopSareeCollectins,WomenSareeCollections,DressesforYou,WesternDressesForWomen,
     BridalWeddingCollection,StellarStylesForHim,NewArrivalsTrousers
 } = require('../data')
 
@@ -39,7 +39,7 @@ router.get('/TSC',(req,res)=>{
     res.json({status:true,TopSareeCollectins})
 }) 
 router.get('/WSC',(req,res)=>{
-    res.json({status:true,WomensSareeCollections})
+    res.json({status:true,WomenSareeCollections})
 }) 
 router.get('/DFY',(req,res)=>{
     res.json({status:true,DressesforYou})
