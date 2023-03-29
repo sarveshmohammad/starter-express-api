@@ -11,7 +11,7 @@ const ConnectDB = require('./config/db');
 app.use("/uploads/images", express.static(path.join("uploads", "images")));
 ConnectDB()
 app.use(express.urlencoded({ extended: false }));
-app.get("/s",(req,res)=>{
+app.get("/smpdr",(req,res)=>{
     res.send("helloowwwww......")
 })
 
