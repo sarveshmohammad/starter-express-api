@@ -19,6 +19,7 @@ app.use('/api/wishlish', require('./routers/wishlishrouters'));
 app.use('/api/addcard',require('./routers/addcardrouters'))
 app.use('/api/address',require("./routers/addressrouters"))
 
+console.log("smpdr");
 
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
