@@ -8288,10 +8288,6 @@ const Deshbord = [
  
 ]
 
-
-
-
-
 const Swaiper1 = [
     {
         title:"formal-pants",
