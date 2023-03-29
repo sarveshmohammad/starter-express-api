@@ -11,6 +11,10 @@ const ConnectDB = require('./config/db');
 app.use("/uploads/images", express.static(path.join("uploads", "images")));
 ConnectDB()
 app.use(express.urlencoded({ extended: false }));
+app.get("/s",(req,res)=>{
+    res.send("helloowwwww......")
+})
+
 app.use(cors())
 
 app.use('/api/AllCategris',require('./routers/allcetegris'))
