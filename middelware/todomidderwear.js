@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 const asyncHandler = require('express-async-handler');
-const todo = require('../Model/todoModel')
+const todo = require('../models/todomodel')
 
 const protect = asyncHandler(async (req,res,next)=>{
     let token

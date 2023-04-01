@@ -28,7 +28,10 @@ app.use('/api/doing',require('./routers/doingrouters'))
 
 app.use('/api/intail',require('./routers/intailrouters'))
 
-// console.log("smpdr");
+app.use('/api/todo',require('./routers/todorouters'))
+
+app.use('/api/complete',require('./routers/complerterouters'))
+
 
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
