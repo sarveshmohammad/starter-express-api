@@ -11,19 +11,22 @@ const ConnectDB = require('./config/db');
 app.use("/uploads/images", express.static(path.join("uploads", "images")));
 ConnectDB()
 app.use(express.urlencoded({ extended: false }));
-app.get("/smpdr",(req,res)=>{
-    res.send("helloowwwww......")
-})
 
 app.use(cors())
 
 app.use('/api/AllCategris',require('./routers/allcetegris'))
+
 app.use('/api/signup',require('./routers/signuprouters'))
+
 app.use('/api/wishlish', require('./routers/wishlishrouters'));
+
 app.use('/api/addcard',require('./routers/addcardrouters'))
+
 app.use('/api/address',require("./routers/addressrouters"))
 
-console.log("smpdr");
+app.use('/api/doing',require('./routers/doingrouters'))
+
+// console.log("smpdr");
 
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
