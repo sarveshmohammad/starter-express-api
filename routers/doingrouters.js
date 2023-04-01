@@ -6,7 +6,7 @@ const router = express.Router();
 router.use(express.json())
 
 
-router.get('/',protect,getdoing)    
+router.get('/get',protect,getdoing)    
 router.post('/add',protect,postdoing)
 router.delete('/:_id',protect,deletedoing)
 

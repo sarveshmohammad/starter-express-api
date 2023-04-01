@@ -26,6 +26,8 @@ app.use('/api/address',require("./routers/addressrouters"))
 
 app.use('/api/doing',require('./routers/doingrouters'))
 
+app.use('/api/intail',require('./routers/intailrouters'))
+
 // console.log("smpdr");
 
 app.listen(port, () => {
