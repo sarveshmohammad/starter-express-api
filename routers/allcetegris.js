@@ -13,7 +13,7 @@ router.get('/',(req,res)=>{
 router.get('/Dashbord',(req,res)=>{
     res.json({status:true,Deshbord})
 })  
-router.get('/allSwaiper',(req,res)=>{
+router.get('/swaiper',(req,res)=>{
     res.json({status:true,allSwaiper})
 }) 
 
