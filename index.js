@@ -38,6 +38,8 @@ app.listen(port, () => {
 });
 
 
+console.log('smpdr007');
+
 app.post("/create",fileUpload("profile").array("photo", 5),
 
     (req, res) => {
