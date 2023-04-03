@@ -24,9 +24,9 @@ app.use('/api/addcard',require('./routers/addcardrouters'))
 
 app.use('/api/address',require("./routers/addressrouters"))
 
-app.use('/api/doing',require('./routers/doingrouters'))
-
 app.use('/api/intail',require('./routers/intailrouters'))
+
+app.use('/api/doing',require('./routers/doingrouters'))
 
 app.use('/api/todo',require('./routers/todorouters'))
 
