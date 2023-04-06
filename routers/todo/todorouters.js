@@ -1,7 +1,7 @@
 const express= require('express');
-const protect = require('../middelware/todomidderwear')
+const protect = require('../../middelware/todo/todomidderwear')
 
-const {gettodo, posttodo, deletetodo } = require('../controllers/todocontrollers');
+const {gettodo, posttodo, deletetodo } = require('../../controllers/todo/todocontrollers');
 const router = express.Router(); 
 router.use(express.json())
 

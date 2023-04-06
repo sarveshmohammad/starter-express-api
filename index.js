@@ -28,15 +28,16 @@ app.use('/api/intail',require('./routers/intailrouters'))
 
 app.use('/api/doing',require('./routers/doingrouters'))
 
-app.use('/api/todo',require('./routers/todorouters'))
+app.use('/api/todo',require('./routers/todo/todorouters'))
+
 
 app.use('/api/complete',require('./routers/complerterouters'))
 
 
-app.listen(port, () => {
-    console.log(`port is colled ${port}`);
-});
-
+// app.listen(port, () => {
+//     console.log(`port is colled ${port}`);
+// });
+console.log('sarver is run');
 app.post("/create",fileUpload("profile").array("photo", 5),
 
     (req, res) => {

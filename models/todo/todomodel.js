@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
 const todo = new mongoose.Schema({
     title: {  type: String },
     dis: { type: String },
@@ -9,4 +9,4 @@ const todo = new mongoose.Schema({
     timestamps: true
 });
 
-module.exports = mongoose.model('todo', todo);
+module.exports = mongoose.model('todos', todo);

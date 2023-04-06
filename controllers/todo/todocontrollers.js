@@ -1,9 +1,7 @@
 const jwt = require("jsonwebtoken")
 const mongodb = require('mongodb');
-const todo = require('../models/todomodel');
+const todo = require('../../models/todo/todomodel');
 const asyncHandler = require('express-async-handler');
-
-
 
 const gettodo = async (req, res) => {
     let data = await todo.find({ user_id: req.user});
